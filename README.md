@@ -24,7 +24,8 @@
 
  
  ## FlowChart of Methodology
- 
+ ![methodology](https://user-images.githubusercontent.com/74492075/133974005-d230febc-b78a-494b-9842-a8f83eaa70bf.jpeg)
+
  
  ## DataSet Link
    https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
